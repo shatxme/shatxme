@@ -15,8 +15,8 @@ Tooling and workflow centered on **Astro, React, Playwright, Zed, Copilot, and O
 - Building internal tools and domain-specific platforms
 
 ### Active Projects (code private)
-- ![QA Learning Platform](https://sprintest.ru) — structured content, guided flows, assessments
-- ![Parenting Platform](https://parentup.ru) — long-horizon knowledge base and progression system
+- [QA Learning Platform](https://sprintest.ru) — structured content, guided flows, assessments
+- [Parenting Platform](https://parentup.ru) — long-horizon knowledge base and progression system
 - **AI micro-apps** — fast prototypes and utilities
 
 Most work is private.
