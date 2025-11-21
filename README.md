@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi👋, I'm Alex — QA Automation Engineer & Web Developer
 
-<!--
-**shatxme/shatxme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on **TypeScript-based automation and modern frontend development**.  
+Tooling and workflow centered on **Astro, React, Playwright, Zed, Copilot, and OpenRouter**.
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=000)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Areas
+- E2E test automation (Playwright + TS)
+- AI-assisted development workflows
+- Minimal, convention-driven project architecture
+- Building internal tools and domain-specific platforms
+
+### Active Projects (code private)
+- **QA Learning Platform** — structured content, guided flows, assessments https://sprintest.ru
+- **Parenting Platform** — long-horizon knowledge base and progression system https://parentup.ru
+- **AI micro-apps** — fast prototypes and utilities
+
+Most work is private.
+
+### 📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/shatxme  
+Email: mailto:shatxme@gmail.com
