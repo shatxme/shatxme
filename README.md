@@ -1,7 +1,7 @@
 # Hi👋, I'm Alex — QA Automation Engineer & Web Developer
 
 Focused on **TypeScript-based automation and modern frontend development**.  
-Tooling and workflow centered on **Astro, React, Playwright, Zed, Copilot, and OpenRouter**.
+Tooling and workflow centered on **Astro, React, Playwright, Zed, Cursor, Neovim, Tmux, GPT and OpenRouter**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=white)
